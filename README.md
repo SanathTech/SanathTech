@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SanathTech
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning React JS.
+- 📫 How to reach me: sanathpun@hotmail.com
