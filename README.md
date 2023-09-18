@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SanathTech
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning how to leverage AI.
-- 📫 How to reach me: sanathpun@hotmail.com
+- 📫 How to reach me: sanathpun96@gmail.com
